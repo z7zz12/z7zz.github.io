@@ -1,1 +1,8 @@
+index.html
+<h2>Nossas Fotos</h2>
+<div style="display:flex; flex-wrap: wrap; gap: 12px; justify-content:center;">
+  <img src="imgs/foto1.jpg" alt="Foto 1" style="width:150px; border-radius:12px; box-shadow:0 2px 6px rgba(0,0,0,0.15);" />
+  <img src="imgs/foto2.jpg" alt="Foto 2" style="width:150px; border-radius:12px; box-shadow:0 2px 6px rgba(0,0,0,0.15);" />
+  <img src="imgs/foto3.jpg" alt="Foto 3" style="width:150px; border-radius:12px; box-shadow:0 2px 6px rgba(0,0,0,0.15);" />
+</div>
 
